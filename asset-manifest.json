@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random_quote_machine/static/css/main.fbd4b43e.css",
+    "main.js": "/random_quote_machine/static/js/main.b55f4266.js",
+    "static/js/787.08f63c06.chunk.js": "/random_quote_machine/static/js/787.08f63c06.chunk.js",
+    "index.html": "/random_quote_machine/index.html",
+    "main.fbd4b43e.css.map": "/random_quote_machine/static/css/main.fbd4b43e.css.map",
+    "main.b55f4266.js.map": "/random_quote_machine/static/js/main.b55f4266.js.map",
+    "787.08f63c06.chunk.js.map": "/random_quote_machine/static/js/787.08f63c06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd4b43e.css",
+    "static/js/main.b55f4266.js"
+  ]
+}
